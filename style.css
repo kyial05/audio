@@ -1,0 +1,143 @@
+body{
+    background-color: rgb(247, 203, 115);
+    width: auto;
+    height: 450px;
+    background-size:cover;
+    display:flex;
+    justify-content: space-around;
+    align-items:flex-end;
+    flex-flow: wrap;
+    
+
+}
+.main{
+    width: 300px;
+    height: 5px;
+    border-radius: 40px 40px 30px 30px; 
+    /* background-color: black; */
+    background-image: url(https://m.media-amazon.com/images/M/MV5BYjQwZmQ4NjgtZWUwOC00M2JhLWFkMjMtYzM0ZTVmZjUwODM2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX1000_.jpg);
+    background-size: cover;
+    display: flex;
+    transition: 1s;
+}
+.main audio{
+    align-self: flex-end;
+    display: block;
+}
+.main:hover{
+height: 300px;
+width: 300px;
+transition: 1s;
+}
+.main-two{
+    margin-left: 30px;
+    width: 300px;
+    height: 5px;
+    border-radius: 40px 40px 30px 30px;
+    background-image: url(./Screenshot_1.png);
+    background-size: cover;
+    display: flex;
+    transition: 1s;
+}
+.main-two audio{
+    align-self: flex-end;
+    display: block;
+}
+    .main-two:hover{
+        height: 300px;
+        width: 300px;
+        transition: 1s;
+        }
+        .main-three{
+            margin-left: 30px;
+            width: 300px;
+            height: 5px;
+            border-radius: 40px 40px 30px 30px; 
+            /* background-color: black; */
+            background-image: url(./81f015aa90bd718d610589e55fd829e5.jpg);
+            background-size: cover;
+            display: flex;
+            transition: 1s;
+        }
+        .main-three audio{
+            align-self: flex-end;
+            display: block;
+        }
+        .main-three:hover{
+        height: 300px;
+        width: 300px;
+        transition: 1s;
+        }
+        .main-four{
+            margin-left: 30px;
+            width: 300px;
+            height: 5px;
+            border-radius: 40px 40px 30px 30px; 
+            /* background-color: black; */
+            background-image: url(https://i1.sndcdn.com/artworks-000061968805-tnpnib-t500x500.jpg);
+            background-size: cover;
+            display: flex;
+            transition: 1s;
+        }
+        .main-four audio{
+            align-self: flex-end;
+            display: block;
+        }
+        .main-four:hover{
+        height: 300px;
+        width: 300px;
+        transition: 1s;
+        }
+        .main-five{
+            margin-left: 30px;
+            width: 300px;
+            height: 5px;
+            border-radius: 40px 40px 30px 30px; 
+            /* background-color: black; */
+            background-image: url(https://i.pinimg.com/736x/9f/45/01/9f4501535753e7b35ee672cbf7e20869--sugar-skull-girl-flower-crowns.jpg);
+            background-size: cover;
+            display: flex;
+            transition: 1s;
+        }
+        .main-five audio{
+            align-self: flex-end;
+            display: block;
+        }
+        .main-five:hover{
+        height: 300px;
+        width: 300px;
+        transition: 1s;
+        }
+        .main-six{
+            margin-left: 30px;
+            width: 300px;
+            height: 5px;
+            border-radius: 40px 40px 30px 30px; 
+            /* background-color: black; */
+            background-image: url(https://www.bathtubmermaid.com/wp-content/uploads/2018/04/0186-Dancing-with-Ghosts.jpg);
+            background-size: cover;
+            display: flex;
+            transition: 1s;
+        }
+        .main-six audio{
+            align-self: flex-end;
+            display: block;
+        }
+        .main-six:hover{
+        height: 300px;
+        width: 300px;
+        transition: 1s;
+        }
+        /* button{
+            display:flex;
+            width: 50px;
+            height: 50px;
+            margin-top: 300px;
+            margin-right: 300px;
+
+        } */
+
+        
+
+        
+        
